@@ -1,0 +1,23 @@
+{
+  "name": "broker",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "json-socket": "^0.3.0",
+    "jsontoxml": "^1.0.1",
+    "queue": "latest",
+    "readline-sync": "^1.4.9",
+    "serve-favicon": "~2.4.5"
+  },
+  "description": "",
+  "main": "brocker.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
